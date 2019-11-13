@@ -7,6 +7,7 @@ Classes plan
 - PHP code exercise
 - Command Line introduction
 - Git introduction
+- Git Practice
 - Git exercise
 - Git best practices
 -  Exam
