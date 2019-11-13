@@ -5,6 +5,7 @@ Classes plan
 - Logic introduction
 - Logic exercise
 - PHP code exercise
+- Command Line introduction
 - Git introduction
 - Git exercise
 - Git best practices
